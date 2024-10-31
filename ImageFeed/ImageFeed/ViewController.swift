@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ImageFeed
 //
-//  Created by Максим on 30.09.2024.
+//  Created by Максим on 21.10.2024.
 //
 
 import UIKit
